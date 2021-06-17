@@ -1,5 +1,5 @@
 # you may find the app at below link
-[weather App](https://trail-app-94135.web.app)
+[covid tracker](https://trail-app-94135.web.app)
 
 # Getting Started with Create React App
 
